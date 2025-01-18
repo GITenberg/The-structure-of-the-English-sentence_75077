@@ -1,0 +1,27 @@
+_repo: The-structure-of-the-English-sentence_75077
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kimball, Lillian
+    gutenberg_agent_id: '57813'
+    url: http://www.gutenberg.org/2009/agents/57813
+description: ''
+gutenberg_issued: '2025-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75077'
+language: en
+pgterms:marc904: https://archive.org/details/structureofengli0000lill_k4x5/page/n5/mode/2up
+pgterms:marc905: 20230401041420kimball
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Alan, The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bAmerican Book Company, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The structure of the English sentence
+url: http://www.gutenberg.org/ebooks/75077
