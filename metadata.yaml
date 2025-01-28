@@ -1,11 +1,16 @@
 _repo: The-structure-of-the-English-sentence_75077
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75077-h/images/cover.jpg
 creator:
   author:
     agent_name: Kimball, Lillian
     gutenberg_agent_id: '57813'
     url: http://www.gutenberg.org/2009/agents/57813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75077#The-structure-of-the-English-sentence
 gutenberg_issued: '2025-01-10'
 gutenberg_type: Text
 identifiers:
